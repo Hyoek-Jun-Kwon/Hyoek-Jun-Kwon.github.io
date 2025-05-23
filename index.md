@@ -14,11 +14,13 @@ body {
 a {
   text-decoration: none;
 }
+
+.w {
+  max-width: 800px;
+}
 </style>
 
-<p align="center">
-<img src="assets/hyukjun_kwon.jpg" alt="Profile" width="250" />
-</p>
+![profile](assets/hyukjun_kwon.jpg){: width="250px" }
 
 ## About Me
 
