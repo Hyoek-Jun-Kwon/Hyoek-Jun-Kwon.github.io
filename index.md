@@ -16,11 +16,11 @@ a {
 }
 
 .w {
-  max-width: 800px;
+  max-width: 900px;
 }
 </style>
 
-![profile](assets/hyukjun_kwon.jpg){: width="250px" }
+![profile](assets/Hyukjun_Kwon.jpg){: width="250px" }
 
 ## About Me
 
