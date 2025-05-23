@@ -3,7 +3,7 @@ layout: page
 title: "Hyukjun Kwon"
 ---
 
-![profile](assets/Hyukjun_Kwon.jpg)
+![profile](assets/Hyukjun_Kwon.jpg){: width="200px" }
 
 ## 👋 About Me
 
