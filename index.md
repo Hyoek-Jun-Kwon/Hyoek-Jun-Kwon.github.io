@@ -8,6 +8,7 @@ title: "Hyukjun Kwon"
 <style>
 body {
   font-family: 'Ubuntu Mono', monospace;
+  font-size: 125%;
 }
 
 a {
@@ -15,40 +16,48 @@ a {
 }
 </style>
 
-![profile](assets/Hyukjun_Kwon.jpg){: width="200px" }
+<p align="center">
+<img src="assets/hyukjun_kwon.jpg" alt="Profile" width="250" />
+</p>
 
 ## About Me
 
-Hi, I'm **Hyukjun Kwon**, a researcher/developer interested in privacy-preserving technologies and systems programming.  
-I'm currently exploring differential privacy, memory management, and formal verification.
-
----
-
-## Experience
-
-- 2024–Now: Research Assistant, Seoul National University
-- 2023–2024: Backend Developer Intern, XYZ Corp
-- 2022: LikeLion Web Project Mentor
+Hi, I'm **Hyukjun Kwon**, an undergraduate student in Seoul National University interested in privacy-preserving technologies and verifiable computing.
+I'm currently exploring on the field of Differential Privacy and Zero Knowledge Proofs.
 
 ---
 
 ## Education
 
-- B.S. in Computer Science, SNU (2019–2025)
+- Seoul National University(Mar. 2020 – Aug. 2026, expected)  
+  B.S. in Computer Science and Engineering
+
+---
+
+## Experience
+
+- Jan. 2025 – Present: Undergraduate Research Assistant, Seoul National University
 
 ---
 
 ## Publications
 
-- Kwon, H., et al. "Optimizing Differential Privacy via Adaptive Sketching." _IEEE S&P 2026_ (under review)
-- Kwon, H., et al. "Memory-Aware Allocators for Embedded Systems." _USENIX ATC 2025_
+- Hyukjun Kwon, Chenglin Fan.  
+  "**Verifying Differentially Private Median Estimation**"  
+  [[arXiv]](https://arxiv.org/abs/2505.16246#)
 
 ---
 
 ## News
 
-- May 2025: Submitted paper to IEEE S&P 🎉
-- Apr 2025: Completed system programming project on custom memory allocator
-- Jan 2025: Started building this personal site using Jekyll!
+- May 2025: My first paper is posted on arXiv!
+- Jan 2025: Joined professor [Chenglin Fan](https://sites.google.com/site/chenglinfanresearch/welcome-to-chenglin-fans-webpage)'s [AFD lab](https://sites.google.com/snu.ac.kr/afdlab/news?authuser=0) as a research intern!
+
+---
+
+## Contact Information
+
+- Email: todd4@snu.ac.kr
+- Office: 302-317, Seoul National University
 
 ---
