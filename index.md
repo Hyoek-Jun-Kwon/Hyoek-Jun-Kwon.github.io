@@ -9,6 +9,10 @@ title: "Hyukjun Kwon"
 body {
   font-family: 'Ubuntu Mono', monospace;
 }
+
+a {
+  text-decoration: none;
+}
 </style>
 
 ![profile](assets/Hyukjun_Kwon.jpg){: width="200px" }
