@@ -31,14 +31,16 @@ I'm currently exploring on the field of Differential Privacy and Zero Knowledge 
 
 ## Education
 
-- Seoul National University(Mar. 2020 – Aug. 2026, expected)  
+- **Seoul National University** (Mar. 2020 – Aug. 2026, expected)  
   B.S. in Computer Science and Engineering
 
 ---
 
 ## Experience
 
-- Jan. 2025 – Present: Undergraduate Research Assistant, Seoul National University
+- **Seoul National University** (Jan. 2025 – Present)  
+  Undergraduate Research Assistant  
+  Advisor: Prof. [Chenglin Fan](https://sites.google.com/site/chenglinfanresearch/welcome-to-chenglin-fans-webpage)
 
 ---
 
