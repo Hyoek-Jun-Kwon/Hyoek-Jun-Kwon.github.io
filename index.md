@@ -22,6 +22,9 @@ a {
 
 ![profile](assets/Hyukjun_Kwon.jpg){: width="250px" }
 
+- Email: todd4@snu.ac.kr
+- Office: 302-317, Seoul National University
+
 ## About Me
 
 Hi, I'm **Hyukjun Kwon**, an undergraduate student in Seoul National University interested in privacy-preserving technologies and verifiable computing.
@@ -58,10 +61,5 @@ I'm currently exploring on the field of Differential Privacy and Zero Knowledge 
 - Jan 2025: Joined professor [Chenglin Fan](https://sites.google.com/site/chenglinfanresearch/welcome-to-chenglin-fans-webpage)'s [AFD lab](https://sites.google.com/snu.ac.kr/afdlab/%ED%99%88?authuser=0) as a research intern!
 
 ---
-
-## Contact Information
-
-- Email: todd4@snu.ac.kr
-- Office: 302-317, Seoul National University
 
 ---
