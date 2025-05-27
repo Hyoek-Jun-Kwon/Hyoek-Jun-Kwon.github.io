@@ -61,5 +61,3 @@ I'm currently exploring on the field of Differential Privacy and Zero Knowledge 
 - Jan 2025: Joined professor [Chenglin Fan](https://sites.google.com/site/chenglinfanresearch/welcome-to-chenglin-fans-webpage)'s [AFD lab](https://sites.google.com/snu.ac.kr/afdlab/%ED%99%88?authuser=0) as a research intern!
 
 ---
-
----
