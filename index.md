@@ -34,7 +34,7 @@ I'm currently exploring on the field of Differential Privacy and Zero Knowledge 
 
 ## Education
 
-- **Seoul National University** (Mar. 2020 – Aug. 2026, expected)  
+- **Seoul National University** (Mar. 2020 – Feb. 2027, expected)  
   B.S. in Computer Science and Engineering
 
 ---
@@ -47,11 +47,11 @@ I'm currently exploring on the field of Differential Privacy and Zero Knowledge 
 
 ---
 
-## Publications
+## Preprints
 
 - Hyukjun Kwon, Chenglin Fan.  
-  "**Verifying Differentially Private Median Estimation**"  
-  [[arXiv]](https://arxiv.org/abs/2505.16246#)
+  "**Verifiable Exponential Mechanism for Median Estimation**"  
+  [[arXiv]](https://arxiv.org/abs/2505.16246v2)
 
 ---
 
