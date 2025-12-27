@@ -18,6 +18,11 @@ a {
 .w {
   max-width: 900px;
 }
+
+.secondary {
+  opacity: 0.6; /* 0.0(완전 투명) ~ 1.0(불투명) 사이 값 */
+}
+
 </style>
 
 ![profile](assets/Hyukjun_Kwon.jpg){: width="250px" }
@@ -29,7 +34,7 @@ a {
 Hi, I'm **Hyukjun Kwon**, an undergraduate student at Seoul National University.
 My current research interests lie in recommendation systems.
 
-*(Previously, I have worked on differential privacy and verifiable computing.)*
+<span class="secondary">*(Previously, I have worked on differential privacy and verifiable computing.)*</span>
 
 ---
 
@@ -44,8 +49,7 @@ My current research interests lie in recommendation systems.
 
 - **Seoul National University** (Jan. 2025 – Dec. 2025)  
   Undergraduate Research Assistant @ [AFD Lab](https://sites.google.com/snu.ac.kr/afdlabsnu/afd-lab?authuser=0)
-  
-  Advisor: Prof. [Chenglin Fan](https://sites.google.com/site/chenglinfanresearch/welcome-to-chenglin-fans-webpage)
+  *(Advisor: Prof. [Chenglin Fan](https://sites.google.com/site/chenglinfanresearch/welcome-to-chenglin-fans-webpage))*
   
   - Research on Differential Privacy and Verifiable Computing
 
