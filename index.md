@@ -44,7 +44,9 @@ My current research interests lie in recommendation systems.
 
 - **Seoul National University** (Jan. 2025 – Dec. 2025)  
   Undergraduate Research Assistant @ [AFD Lab](https://sites.google.com/snu.ac.kr/afdlabsnu/afd-lab?authuser=0)
+  
   Advisor: Prof. [Chenglin Fan](https://sites.google.com/site/chenglinfanresearch/welcome-to-chenglin-fans-webpage)
+  
   - Research on Differential Privacy and Verifiable Computing
 
 ---
@@ -59,7 +61,7 @@ My current research interests lie in recommendation systems.
 
 ## News
 
-- Jan 2026: I will be joining a mentoring program at professor [Joonseok Lee](http://www.joonseok.net/home.html)'s [VIP lab](https://vip.snu.ac.kr/index.html), Seoul National University. I look forward to the challenge and hope to gain essential skills in AI/ML for visual understanding and recommendation through this program.
+- Jan 2026: I will be joining a mentoring program at professor [Joonseok Lee](http://www.joonseok.net/home.html)'s [VIP lab](https://vip.snu.ac.kr/index.html), Seoul National University. I look forward to the challenge and hope to gain essential skills in AI/ML for visual understanding and recommendation through this program!
 - May 2025: My first paper is posted on arXiv!
 - Jan 2025: I joined professor [Chenglin Fan](https://sites.google.com/site/chenglinfanresearch/welcome-to-chenglin-fans-webpage)'s [AFD lab](https://sites.google.com/snu.ac.kr/afdlab/%ED%99%88?authuser=0) as a research intern!
 
