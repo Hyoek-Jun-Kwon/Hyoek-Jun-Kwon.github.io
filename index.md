@@ -23,6 +23,10 @@ a {
   opacity: 0.6; /* 0.0(완전 투명) ~ 1.0(불투명) 사이 값 */
 }
 
+.small_text {
+  font-size: 90%
+}
+
 </style>
 
 ![profile](assets/Hyukjun_Kwon.jpg){: width="250px" }
@@ -50,14 +54,18 @@ My current research interests lie in recommendation systems.
 ## Experience
 
 - **[VIP Lab](https://vip.snu.ac.kr/index.html) @ Seoul National University** (Mar. 2025 – Present)  
+  <span class="small_text">
   Undergraduate Research Intern
   *(Advisor: Prof. [Joonseok Lee](http://www.joonseok.net/home.html))*
+  </span>
   
   - Research on Multi-interest Recommendation
 
 - **[AFD Lab](https://sites.google.com/snu.ac.kr/afdlabsnu/afd-lab?authuser=0) @ Seoul National University** (Jan. 2025 – Dec. 2025)  
+  <span class="small_text">
   Undergraduate Research Intern
   *(Advisor: Prof. [Chenglin Fan](https://sites.google.com/site/chenglinfanresearch/welcome-to-chenglin-fans-webpage))*
+  </span>
   
   - Research on Differential Privacy and Verifiable Computing
 
