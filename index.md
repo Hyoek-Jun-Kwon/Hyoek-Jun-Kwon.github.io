@@ -40,7 +40,7 @@ a {
 Hi, I'm **Hyukjun Kwon**, an undergraduate student at Seoul National University.
 My current research interests lie in recommendation systems.
 
-<span class="secondary">*(Previously, I have worked on differential privacy and verifiable computation.)*</span>
+<span class="secondary">*(Previously, I worked on differential privacy and verifiable computation.)*</span>
 
 ---
 
