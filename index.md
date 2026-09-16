@@ -56,7 +56,7 @@ My current research interests include LLM-based recommender systems.
 
 ## Experience
 
-- **[VIP Lab](https://vip.snu.ac.kr/index.html) @ Seoul National University** (Mar. 2025 – Present)  
+- **[VIP Lab](https://vip.snu.ac.kr/index.html) @ Seoul National University** (Mar. 2026 – Aug. 2026)  
   <span class="small_text">
   Undergraduate Research Intern
   *(Advisor: Prof. [Joonseok Lee](http://www.joonseok.net/home.html))*
