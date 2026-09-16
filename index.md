@@ -37,7 +37,7 @@ a {
 
 ## About Me
 
-Hi, I am an M.S./Ph.D. Student in the Graduate School of Data Science at Seoul National University, advised by professor [Joonseok Lee](http://www.joonseok.net/home.html).
+Hi, I am a first-year M.S./Ph.D. student in the Graduate School of Data Science at Seoul National University, advised by Professor [Joonseok Lee](http://www.joonseok.net/home.html).
 My current research interests include LLM-based recommender systems.
 
 <span class="secondary">*(Previously, I worked on differential privacy and verifiable computation.)*</span>
