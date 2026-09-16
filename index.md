@@ -50,7 +50,7 @@ My current research interests include LLM-based recommender systems.
   Integrated M.S./Ph.D. Program in Data Science
 
 - **Seoul National University** (Mar. 2020 – Aug. 2026)  
-  B.S. in Computer Science and Engineering
+  B.S. in Computer Science and Engineering (cum laude)
 
 ---
 
