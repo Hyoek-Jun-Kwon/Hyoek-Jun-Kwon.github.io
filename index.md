@@ -37,8 +37,8 @@ a {
 
 ## About Me
 
-Hi, I'm **Hyukjun Kwon**, an undergraduate student at Seoul National University.
-My current research interests lie in recommendation systems.
+Hi, I am an M.S./Ph.D. Student in the Graduate School of Data Science at Seoul National University, advised by professor [Joonseok Lee](http://www.joonseok.net/home.html).
+My current research interests include LLM-based recommender systems.
 
 <span class="secondary">*(Previously, I worked on differential privacy and verifiable computation.)*</span>
 
@@ -46,7 +46,10 @@ My current research interests lie in recommendation systems.
 
 ## Education
 
-- **Seoul National University** (Mar. 2020 – Aug. 2026, Expected)  
+- **Seoul National University** (Sep. 2026 – Present)  
+  Integrated M.S./Ph.D. Program in Data Science
+
+- **Seoul National University** (Mar. 2020 – Aug. 2026)  
   B.S. in Computer Science and Engineering
 
 ---
@@ -80,7 +83,7 @@ My current research interests lie in recommendation systems.
 ---
 
 ## News
-
+- Sep 2026: Started my M.S./Ph.D. program in the Graduate School of Data Science at Seoul National University.
 - Mar 2026: Joined [VIP lab](https://vip.snu.ac.kr/index.html) as an undergraduate research intern.
 - Jan 2026: I will be joining a mentoring program at professor [Joonseok Lee](http://www.joonseok.net/home.html)'s [VIP lab](https://vip.snu.ac.kr/index.html). I look forward to the challenge and hope to gain essential skills in AI/ML for visual understanding and recommendation through this program!
 - May 2025: My first paper is posted on arXiv!
