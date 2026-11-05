@@ -76,14 +76,14 @@ My research is currently focused on cold-start recommdnation.
 
 ## Publications
 - "**When Co-occurrence is Not Enough: A Principled Signal Construction and Alignment in Sequential Recommendation**"<br>
-  <span class="secondary">Junhyeong Park, <u>***Hyukjun Kwon***</u>, Jinkyu Sung, Joonseok Lee<sup>†</sup>.</span><br>
+  <span class="secondary">Junhyeong Park, <u><strong><em>Hyukjun Kwon</em></strong></u>, Jinkyu Sung, Joonseok Lee<sup>†</sup>.</span><br>
   <span class="secondary">WSDM 2027 Findings</span> 
 
 ---
 
 ## Preprints
 - "**Verifiable Exponential Mechanism for Median Estimation**"<br>
-  <span class = "secondary"><u>***Hyukjun Kwon***</u>, Chenglin Fan<sup>†</sup>.</span> <br>
+  <span class = "secondary"><u><strong><em>Hyukjun Kwon</em></strong></u>, Chenglin Fan<sup>†</sup>.</span> <br>
   [[arXiv]](https://arxiv.org/abs/2505.16246v2)
 
 ## News
