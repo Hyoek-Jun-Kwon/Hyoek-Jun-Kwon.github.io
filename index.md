@@ -38,7 +38,7 @@ a {
 ## About Me
 
 Hi, I am a first-year M.S./Ph.D. student in the Graduate School of Data Science at Seoul National University, advised by Professor [Joonseok Lee](http://www.joonseok.net/home.html).
-My current research interests include LLM-based recommender systems.
+My research is currently focused on cold-start recommdnation.
 
 <span class="secondary">*(Previously, I worked on differential privacy and verifiable computation.)*</span>
 
@@ -74,10 +74,13 @@ My current research interests include LLM-based recommender systems.
 
 ---
 
-## Preprints
+## Publications & Preprints
+
+- Junhyeong Park, ***Hyukjun Kwon***, Jinkyu Sung, Joonseok Lee.  
+  "**Verifiable Exponential Mechanism for Median Estimation**", <span class="secondary">[WSDM 2027 Findings]</span>
 
 - ***Hyukjun Kwon***, Chenglin Fan.  
-  "**Verifiable Exponential Mechanism for Median Estimation**"  
+  "**Verifiable Exponential Mechanism for Median Estimation**", 
   [[arXiv]](https://arxiv.org/abs/2505.16246v2)
 
 ---
