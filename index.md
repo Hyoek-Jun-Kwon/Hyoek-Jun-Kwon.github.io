@@ -74,16 +74,17 @@ My research is currently focused on cold-start recommdnation.
 
 ---
 
-## Publications & Preprints
-
-- Junhyeong Park, ***Hyukjun Kwon***, Jinkyu Sung, Joonseok Lee.  
-  "**Verifiable Exponential Mechanism for Median Estimation**", <span class="secondary">[WSDM 2027 Findings]</span>
-
-- ***Hyukjun Kwon***, Chenglin Fan.  
-  "**Verifiable Exponential Mechanism for Median Estimation**", 
-  [[arXiv]](https://arxiv.org/abs/2505.16246v2)
+## Publications
+- "**When Co-occurrence is Not Enough: A Principled Signal Construction and Alignment in Sequential Recommendation**"<br>
+  <span class="secondary">Junhyeong Park, ***Hyukjun Kwon***, Jinkyu Sung, Joonseok Lee<sup>†</sup>.</span><br>
+  <span class="secondary">WSDM 2027 Findings</span> 
 
 ---
+
+## Preprints
+- "**Verifiable Exponential Mechanism for Median Estimation**"<br>
+  <span class = "secondary">***Hyukjun Kwon***, Chenglin Fan.</span> <br>
+  [[arXiv]](https://arxiv.org/abs/2505.16246v2)
 
 ## News
 - Sep 2026: Started my M.S./Ph.D. program in the Graduate School of Data Science at Seoul National University.
