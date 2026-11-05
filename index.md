@@ -83,7 +83,7 @@ My research is currently focused on cold-start recommdnation.
 
 ## Preprints
 - "**Verifiable Exponential Mechanism for Median Estimation**"<br>
-  <span class = "secondary"><u>***Hyukjun Kwon***</u>, Chenglin Fan.</span> <br>
+  <span class = "secondary"><u>***Hyukjun Kwon***</u>, Chenglin Fan<sup>†</sup>.</span> <br>
   [[arXiv]](https://arxiv.org/abs/2505.16246v2)
 
 ## News
