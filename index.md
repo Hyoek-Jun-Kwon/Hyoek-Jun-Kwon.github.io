@@ -62,7 +62,7 @@ My research is currently focused on cold-start recommdnation.
   *(Advisor: Prof. [Joonseok Lee](http://www.joonseok.net/home.html))*
   </span>
   
-  - Research on Multi-interest Recommendation
+  - Research on Multi-interest Recommendation and Cold-start Recomnendation
 
 - **[AFD Lab](https://sites.google.com/snu.ac.kr/afdlabsnu/afd-lab?authuser=0) @ Seoul National University** (Jan. 2025 – Dec. 2025)  
   <span class="small_text">
